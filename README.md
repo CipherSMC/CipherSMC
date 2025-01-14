@@ -8,7 +8,8 @@ I'm an accomplished Information Technology Specialist with a proven track record
 
 💞️ I'm looking to collaborate on projects that involve web development, data management, and machine learning.
 
-📫 You can reach me via email at ciphersmc@gmail.com or connect with me on X at https://twitter.com/Cipher_SMC.
+📫 You can reach me via email at ciphersmc@gmail.com or connect with me on X at https://twitter.com/CipherSMC_0xCB
+.
 
 <!---
 CipherSMC/CipherSMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
