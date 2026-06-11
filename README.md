@@ -25,9 +25,11 @@ Welcome to my GitHub profile! I’m an **Information Technology Specialist** wit
 
 ## 📈 GitHub Stats  
 
-`https://github-readme-stats.vercel.app/api?username=CipherSMC&show_icons=true&theme=radical`  
-`https://github-readme-stats.vercel.app/api/top-langs/?username=CipherSMC&layout=compact&theme=radical`  
-`https://github-readme-streak-stats.herokuapp.com/?user=CipherSMC&theme=radical`  
+![CipherSMC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CipherSMC&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherSMC&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CipherSMC&theme=radical)
 
 ---
 
@@ -58,9 +60,7 @@ A versatile TradingView indicator designed to track and visualize the Market Cap
 
 ## 📊 Contribution Activity  
 
-<a href="https://github.com/CipherSMC">
-  <img alt="CipherSMC's contribution graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=CipherSMC&theme=react-dark&hide_border=true" />
-</a>  
+![CipherSMC's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CipherSMC&theme=react-dark&hide_border=true)
 
 ---
 
