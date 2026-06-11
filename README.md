@@ -33,21 +33,24 @@ Welcome to my GitHub profile! I’m an **Information Technology Specialist** wit
 
 ## 🌟 Featured Projects  
 
-### Trading Dashboard [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FCipherSMC%2Ftrading-dashboard")  
-A Rails + Tailwind project for visualizing Forex and Crypto trades.  
+### MTF_EMA_Fibonacci_Ribbon [(EMA Fibonacci Ribbon)](https://github.com/CipherSMC/MTF_EMA_Fibonacci_Ribbon)  
+This system uses a Top-Down Analysis approach. We only trade in the direction of the "Big Money" (4H and 1H) and use the Fibonacci Ribbon on the lower timeframe to find the most efficient entry point.
 
-### Data Manager [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FCipherSMC%2Fdata-manager")  
-Python-based tool for efficient data handling and reporting.  
+### Ultimate BBMA Confluence Suite [(MTF BBMA)](https://github.com/CipherSMC/Ultimate_BBMA_Confluence_Suite)  
+This indicator is an institutional-grade analytical tool that combines the high-probability setups of the BBMA (Bollinger Bands & Moving Averages) methodology with modern data visualization, multi-timeframe logic, and predictive entry zones.
 
-### Automation Scripts [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FCipherSMC%2Fautomation-scripts")  
-Collection of scripts for workflow automation and deployment.  
+### VSA Wyckoff Analysis [(VSA)](https://github.com/CipherSMC/VSA_Wyckoff_Analysis)  
+This indicator is designed to reveal the activity of "Smart Money" (Institutional Traders) by analyzing the relationship between Volume (Effort) and Price Spread (Result).
+
+### Crypto Market Cap [(MC)](https://github.com/CipherSMC/Crypto_Market_Cap)
+A versatile TradingView indicator designed to track and visualize the Market Capitalization of the entire crypto market or specific tokens directly on your chart. This tool bridges the gap between price analysis and fundamental market-wide data.
 
 ---
 
 ## 🎯 Current Focus  
 
-- 🔭 Working on: **Rails scaffolding with Tailwind for trading dashboards**  
-- 🌱 Learning: **Grails & JVM frameworks**  
+- 🔭 Working on: **Building Pine Script Indicator**  
+- 🌱 Learning: **Technical analysis**  
 - 💬 Ask me about: **Forex trading psychology, MT5 troubleshooting, and full-stack development**  
 - 🎨 Fun fact: I mix **trading charts with memes** to make learning fun  
 
@@ -64,7 +67,7 @@ Collection of scripts for workflow automation and deployment.
 ## 🤝 Connect With Me  
 
 - **LinkedIn**: [CipherSMC](https://www.linkedin.com/in/ciphersmc/)  
-- **Twitter**: [@CipherSMC](https://x.com/Cipher_SMC)  
+- **Twitter**: [CipherSMC](https://x.com/Cipher_SMC)  
 - **Telegram**: [t.me/CipherSMC](https://t.me/Cipher_SMC)  
 - **Portfolio**: [cipher.dev](https://cipher.dev)  
 - **Email**: ciphersmc@gmail.com  
