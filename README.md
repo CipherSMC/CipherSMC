@@ -1,5 +1,3 @@
-[![LiqTide Score](https://liqtide.com/badge.png)](https://liqtide.com/embed.html)
-
 # 👋 Hi, I'm @CipherSMC  
 
 Welcome to my GitHub profile! I’m an **Information Technology Specialist** with a proven track record in the **computer software industry** and a passion for blending **technology with financial innovation**.  
