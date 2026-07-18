@@ -69,7 +69,7 @@ A versatile TradingView indicator designed to track and visualize the Market Cap
 - **LinkedIn**: [CipherSMC](https://www.linkedin.com/in/ciphersmc/)  
 - **Twitter**: [CipherSMC](https://x.com/Cipher_SMC)  
 - **Telegram**: [t.me/CipherSMC](https://t.me/CipherSMC)  
-- **Portfolio**: [cipher.dev](https://cipher.dev)  
+- **Portfolio**: [ciphersmc.netlify.app](https://ciphersmc.netlify.app/)  
 - **Email**: ciphersmc@gmail.com  
 
 ---
